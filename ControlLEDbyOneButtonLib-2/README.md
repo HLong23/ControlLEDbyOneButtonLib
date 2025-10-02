@@ -1,7 +1,7 @@
 # Dự án: Điều khiển LED bằng nút nhấn (Arduino + OneButton)
 
 ## Mô tả
-Dự án này sử dụng thư viện [OneButton] để điều khiển LED thông qua một nút bấm duy nhất.
+Dự án này sử dụng thư viện [OneButton] để điều khiển 2 LED thông qua một nút bấm duy nhất.
 
 - **Single Click**: Bật/Tắt LED đang được điều khiển (chế độ ON/OFF).
 - **Double Click**: Chuyển chế độ điều khiển giữa hai LED (LED1 và LED2)
